@@ -30,7 +30,7 @@
 </head>
 <body class="bg-light">
     <div class="container mt-5">
-        <h2 class="text-danger mb-4">Thêm sản phẩm mới</h2>
+        <h2 class="text-danger mb-4">THÊM SẢN PHẨM</h2>
 
         <?php if (!empty($errors)): ?>
             <div class="alert alert-danger">
